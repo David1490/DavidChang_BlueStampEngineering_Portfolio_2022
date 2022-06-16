@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿# A Robot That Uses Computer Vision To Track A Ball
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| David Chang | Monta Vista High School | Mechanical Engineering | Rising Senior
+| David Chang | Monta Vista High School | Mechanical Engineering | Incoming Senior |
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
